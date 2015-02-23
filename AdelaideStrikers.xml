@@ -1,0 +1,17 @@
+﻿<Team>
+  <Player>
+    <Name IsCaptain="true">
+      Johan Botha
+    </Name>
+    <Age>32 years 248 days</Age>
+    <Role> Allrounder</Role>
+    <Runs></Runs>
+    <Wickets></Wickets>
+    <ProfileUrl>
+      http://www.espncricinfo.com/big-bash-league-2014-15/content/player/44149.html
+    </ProfileUrl>
+    <ImageUrl>
+      http://www.espncricinfo.com//inline/content/image/818353.html?alt=icon
+    </ImageUrl>
+  </Player>
+</Team>
